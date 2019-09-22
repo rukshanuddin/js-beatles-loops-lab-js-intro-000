@@ -16,10 +16,11 @@ function johnLennonFacts(facts){
   }
   return factsExclaim
 }
+
 function iLoveTheBeatles(num) {
   const array = []
-  do {
-      array.push(`I love the Beatles!`)
+  do {array.push(`I love the Beatles!`)
       num++ }
-  while (num<15);
+  while (num < 15);
+  return array
 }
