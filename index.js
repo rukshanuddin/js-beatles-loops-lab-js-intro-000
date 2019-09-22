@@ -15,7 +15,7 @@ function johnLennonFacts([]){
     "He was a choir boy and boy scout",
     "He hated the sound of his own voice"
   ];
-  
+
   while (n < 4){
     console.log(`${facts[n]}!!!`)
   }
@@ -32,4 +32,3 @@ function iLoveTheBeatles(num) {
     array.push(`I love the Beatles!`);
   } while (incrementVariable(num) < 15);
 }
-
