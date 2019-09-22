@@ -17,8 +17,8 @@ function johnLennonFacts(facts){
   return factsExclaim
 }
 function iLoveTheBeatles(num) {
-	var i = 0;
   const array = []
+  let i = num
 	function incrementVariable() {
 		i = i + 1;
     return i;
